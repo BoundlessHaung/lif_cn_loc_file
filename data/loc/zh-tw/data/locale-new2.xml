@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <lang_pack_version>1</lang_pack_version>
+    <strings>
+
+        <string id="tab01">控制</string>
+        <string id="tab02">教學</string>
+
+
+        <string id="txt_or">或</string>
+        <string id="txt_hold">等待</string>
+        <string id="txt_btn_tox">目錄</string>
+        <string id="txt_btn_understood">理解</string>
+        <string id="txt_btn_skip">跳過</string>
+        <string id="txt_btn_next">下一個</string>
+        <string id="txt_btn_prev">前一個</string>
+
+
+
+        <string id="title001">運動控制</string>
+        <string id="txt001">向前/後/左/右</string>
+
+        <string id="txt002">跳躍</string>
+        <string id="key_space">空格</string>
+
+        <string id="txt003">衝刺</string>
+        <string id="key_shift">shift</string>
+
+
+        <string id="title002">戰鬥模式</string>
+
+        <string id="txt004">戰鬥模式/和平模式</string>
+        <string id="txt005">戰鬥模式和與平模式之間互相切換</string>
+
+        <string id="txt006">快捷鍵欄位</string>
+        <string id="txt007">從武器欄位中拿取一種武器</string>
+
+        <string id="txt008">攻擊</string>
+        <string id="key_mouselb">滑鼠左鍵</string>
+        <string id="txt009">妳的遠程武器及武器的攻擊方向，由妳滑鼠的移動方向來控制攻擊方向。</string>
+
+        <string id="txt010">防禦/格擋</string>
+        <string id="key_mouserb">滑鼠右鍵</string>
+
+        <string id="txt011">猛撲</string>
+        <string id="key_mousemb">滑鼠中鍵</string>
+
+
+        <string id="title003">和平模式及互動</string>
+
+        <string id="txt012">自由控制模式/游標模式</string>
+        <string id="key_tab">Tab</string>
+        <string id="txt013">自由控制模式（跑來跑去）與游標模式（移動視窗、 項目等）之間互相切換</string>
+
+        <string id="txt014">切換界面編輯模式</string>
+
+        <string id="txt015">關聯選單</string>
+        <string id="txt016">指向一個對象、地塊、隧道或是玩家的關聯選單。</string>
+
+        <string id="txt017">執行預設的動作</string>
+        <string id="txt018">對指定的對象、地塊、隧道或是玩家執行預設的動作。妳可以在關聯選單中使用滑鼠右鍵來設定預設動作。</string>
+
+        <string id="txt019">人物背包</string>
+        <string id="txt020">人物裝備</string>
+        <string id="txt021">人物技能</string>
+        <string id="txt022">人物狀態及創傷</string>
+
+
+        <string id="title004">視角控制</string>
+
+        <string id="txt023">更改相機</string>
+        <string id="txt024">在第一人稱與第三人稱之間互相切換。</string>
+
+        <string id="txt025">旋轉相機</string>
+
+
+        <string id="title005">其他</string>
+        <string id="txt026">切換隱藏HUD</string>
+
+
+
+
+
+        <string id="title006">基本</string>
+        <string id="chap01">界面及移動</string>
+        <string id="chap02">背包及裝備管理</string>
+        <string id="chap03">界面及關聯選單</string>
+        <string id="chap04">簡單製作</string>
+        <string id="chap05">使用工具幹活（伐木）</string>
+        <string id="chap06">技能上限、屬性上限、鎖</string>
+        <string id="chap07">戰鬥理論</string>
+        <string id="chap08">傷口、死亡及技能損失</string>
+        <string id="chap09">戰鬥實踐</string>
+        <string id="chap10">簡單建築</string>
+        <string id="chap11">我現應該做什麽？？？</string>
+
+
+        <string id="title007">進階功能</string>
+        <string id="chap12">食物及饑餓</string>
+        <string id="chap13">基本地質改造</string>
+        <string id="chap14">綁定至妳的房子</string>
+        <string id="chap15">搜尋草藥</string>
+
+
+        <string id="title008">僅限MMORPG</string>
+        <string id="chap16">小遊戲</string>
+
+
+
+        <string id="txt027">歡迎來到領地人生！</string>
+        <string id="txt028">本指南將幫助您更容易開始遊戲。</string>
+        <string id="txt029">當妳醒來時入目的只有沙灘。看起來妳的船已經在海岸周圍的暗礁上撞毀了。很顯然妳已經昏迷了一段時間了，那麽首先，讓我們來看一看四周。</string>
+        <string id="txt030">妳可以隨意閱讀本教學並且在需要時隨時查看。<br />如果妳關閉了本教學，可以通過<span class="dark-green">[f1]</span>再次打開。</string>
+
+
+
+        <string id="txt031">在領地人生中有兩種界面模式，妳可以通過<span class="dark-green">[Tab]</span>(預設)按鈕進行切換。</string>
+        <string id="txt032">游標模式。妳可以在此模式下管理妳的物品、製作或是管理建築物以及與所有的遊戲視窗進行互動。</string>
+        <string id="txt033">自由控制模式。妳可以用妳的滑鼠旋轉視角來查看四周或是用妳的滑鼠進行瞄準。</string>
+        <string id="txt034">妳可以通過鍵盤和滑鼠來移動妳的角色，滑鼠可以改變視角而<span class="dark-green">[W]</span>（向前）、<span class="dark-green">[A]</span>（向左）、<span class="dark-green">[S]</span>（後退）、<span class="dark-green">[D]</span>（向右走）來移動。按<span class="dark-green">[Space]</span>來跳躍。當然，妳也可以在移動的同時按住<span class="dark-green">[shift]</span>來加速。使用<span class="dark-green">[C]</span>可以讓妳在第一、三人稱之間互相切換。</string>
+        <string id="txt035">按下<span class="dark-green">[tab]</span>來試著走走看。當妳準備好繼續時，再按一次<span class="dark-green">[tab]</span>，並進入下一章節的教學。如果妳關閉了教學選單，妳可以隨時通過<span class="dark-green">[F1]</span>或者<span class="dark-green">[Esc] -> 幫助選單</span>來再次打開它。</string>
+
+
+
+        <string id="txt036">既然妳已經學會了自由走動，那麽接下來讓我們用一些衣物來為妳遮羞。打開您的背包<span class="dark-green">[I]</span>以及裝備欄<span class="dark-green">[T]</span>使用左鍵將背包中的原始衣服拖動至裝備欄的胸甲欄位。</string>
+        <string id="txt037">妳可以使用類似的方式，裝備工具或武器，但我們將在稍後深入敘述如何裝備。</string>
+
+
+
+        <string id="txt038">第一種也是最簡單的一種交互方式便是關聯選單。妳可以靠近一個對象或是玩家並按下滑鼠右鍵，妳將會看到妳可以跟該對象互動的動作列表。這些動作通過技能類別進行了分組。只有妳目前學會的動作以及可能向該對象使用的動作會顯示在該選單。如果妳不確定選擇了哪個對象，妳可以<span class="dark-green">[按住]</span>滑鼠左鍵或右鍵來標記對象。</string>
+        <string id="txt039">當妳在查看關聯選單時，妳可以使用滑鼠左鍵來執行一個動作，當然，妳也可以通過滑鼠右鍵來設定一個預設動作。預設動作可以通過直接滑鼠左鍵單擊對象來執行，從而無需使用關聯選單來執行該動作。<strong>請牢記該功能</strong>——它可以為您節省大量的時間！噢，對了，關聯選單在背包中也是可以使用的。</string>
+        <string id="txt040">當妳需要使用無須鎖定目標的動作或是想要快速使用物品時，快捷欄應該是妳最好的選擇。妳可以從技能欄或物品欄中將技能或物品拖到快捷欄中。每當妳需要使用該技能或該物品時，只需要按下對應的快捷鍵即可快速使用。花一些時間看看快捷欄並調整成最適合妳的方式吧。</string>
+        <string id="txt041">現在讓我們找一棵樹來看看我們能對它做什麽。</string>
+
+
+
+        <string id="txt042">妳可以試著砍倒這棵樹。但是妳並不能砍倒它 :)，因為妳連一個最原始的斧子都沒有。因此，讓我們來做一把吧！</string>
+        <string id="txt043">對岩石地形使用滑鼠右鍵來搜尋一些<strong>燧石</strong>。</string>
+        <string id="txt044">對樹木使用滑鼠右鍵來折<strong>樹枝</strong>。</string>
+        <string id="txt045">對草地使用滑鼠右鍵搜尋一些<strong>野生植物纖維</strong>。</string>
+        <string id="txt046">當妳已經收集到足夠多的原材料時，打開妳的背包並右鍵點擊樹枝然後選擇<strong>“製作一個原始的工具”</strong>的選項並在隨後彈出的製作視窗中製作一把<strong>原始斧子</strong>。</string>
+        <string id="txt047"><strong>註：</strong>妳不需要手動拖動材料到合成槽位裡。系統會自動選擇材料並使用。當然，如果妳需要使用特定的材料時可以手動將原材料拖動至槽位裡。</string>
+        <string id="txt048">大多數的製作都可以通過上述的方式完成。</string>
+        <string id="txt049">找到一個工具或者製造設施</string>
+        <string id="txt050">右鍵單擊它並選擇適當的製造選項</string>
+        <string id="txt051">選擇妳要製造的物品然後...</string>
+        <string id="txt052">製造！</string>
+        <string id="txt053">現在讓我們裝備那把原始斧子</string>
+
+
+
+        <string id="txt054">木材是這個世界中最重要的建築資源之一。讓我們去砍幾棵樹吧！</string>
+        <string id="txt055">領地人生是一個中世紀世界，充滿了樹木，所以找到一顆合適的樹不會花費妳很多時間。當妳找到一顆合適的樹木時，裝備斧頭到任意的武器槽位。</string>
+        <string id="txt056">然後選擇<strong>伐木 —> 砍伐</strong>。經過幾次重復的砍伐後，妳會看到這棵樹倒下了，然後妳會看到一根原木出現在妳的面前。妳可以背著它到任何妳想去的地方<span class="dark-green">（通用動作 -> 背起）</span> 或者就放在那裡，直到妳學會了<strong>“木匠”</strong>技能。</string>
+        <string id="txt057">我們會在下一章節敘述技能與學習。</string>
+
+
+
+        <string id="txt058">妳可能已經注意到訊息框中的技能提升訊息了。現在是時候來深入了解一下領地人生的技能體系啦。</string>
+        <string id="txt059">領地人生中的技能體系有別於大多數妳玩過的MMO遊戲。在這裡沒有角色等級，職業或者經驗。只有角色技能及屬性。</string>
+        <string id="txt060">當妳在遊戲裡執行任意動作時，不論是藥水調製、建築、挖掘或者揮舞刀劍等都會提升技能的等級。</string>
+        <string id="txt061">所以，如果妳想成為一個優秀的建築工 —— 建造更多東西。</string>
+        <string id="txt062">如果妳想要一個優秀的劍士 —— 盡可能的用妳的劍攻擊敵人。</string>
+        <string id="txt063">每個技能都有其額定（基本）值及實際值。實際值由需求屬性及其他效果計算而得。所有技能都不會高於 100 點或者低於 0 點。</string>
+        <string id="txt064">大多數的技能都被排列成了一個個技能鏈。如果妳想要提升後一個技能那麽必須把前一個技能提升至 60 點來解鎖後續的技能。</string>
+        <string id="txt065">技能體系中還有另外一個限制：<strong>技能上限</strong>。妳的技能的基礎值的總和不能高於那一類技能基礎值的總和。如果您的技能達到了上限，將無法進一步提升技能。但妳總是可以決定犧牲某些技能來提高其他技能。</string>
+        <string id="txt066">打開妳的技能書並更改每個技能的箭頭狀態，不論妳想要增加還是減少亦或是鎖定。</string>
+        <string id="txt067">順便說一句，還有類似的系統。它叫做<strong>屬性上限</strong>，妳可以在屬性欄中找到它。</string>
+        <string id="txt068">通過這些工具和知識，妳可以只使用妳喜歡的技能以及擅長的技能創造出一個獨特的職業。</string>
+        <string id="txt069"><strong>註：</strong>打開技能書的預設按鈕是<span class="dark-green">[L]</span>。</string>
+        <string id="txt070"><span class="dark-green"><strong>現在，既然妳已經熟悉了技能體系，那麽，現在是時候學習一下領地人生中的戰鬥系統了。按 [R] 鍵進入戰鬥的姿態並根據提示來使用妳的斧頭：</strong></span></string>
+
+
+
+        <string id="txt071">在領地人生中生存不只是食物和資源。同時也需要從各種四條腿或兩條腿的敵人手中存活。在妳開始體驗戰鬥之前，讓我們先來熟悉一下幾個基本的戰鬥方式。</string>
+        <string id="txt072">領地人生中的戰鬥需要深思熟慮、切合實際並且善用策略，而不是盲目的胡亂按鍵。在通往成功的路上妳需要學習和理解幾個關鍵的概念。</string>
+        <string id="txt073"><span class="dark-green">基礎物理戰鬥。</span>我們的戰鬥系統基於物理計算來確定造成的傷害。每一件武器都有獨特的傷害節點，分布在不同的位置上，當妳使用武器時這些節點會以特定的速度跟隨著妳的武器一起移動。每一個節點都有其不同的數量和類型（砍、刺、鈍等）。用斧刃將會比斧背打出更高的傷害。用更高的速度攻擊敵人也會提高傷害。</string>
+        <string id="txt074"><span class="dark-green">物理身軀控制。</span>妳的盔甲和武器裝備的總重量將會影響角色的屬性。影響主要表現在角色的移動和轉向速度。如果妳站著不動，那麽妳執行攻擊動作將會比移動時<strong>更有效</strong>。與此同時妳必須時刻觀察妳的耐力，因為當妳的耐力消耗完畢後會在一段時間內不受控制，無法做出相應的動作。</string>
+        <string id="txt075"><span class="dark-green">定向攻擊。</span>選擇一個適當的攻擊方向很大程度上取決於妳的周圍友軍及敵人的移動路徑。定向攻擊還可以觸發能造成更高傷害的效果：特殊攻擊及組合技。</string>
+        <string id="txt076"><span class="dark-green">特殊攻擊</span>能夠造成大量的破壞。為了執行特殊攻擊必須先完成一些前置條件，比如成功的格擋，擊倒對手或成功防禦，之後只要立即向正確的方向攻擊就能發動特殊攻擊以造成大量傷害。但要小心，特殊攻擊是可以被一次成功突襲打斷的。</string>
+        <string id="txt077"><span class="dark-green">組合技</span>是一種造成更多傷害的方式，並且在完成組合技的最後一擊後會產生一些特殊的效果。如果妳按照特定順序向不同的方向攻擊，那麽，每一次連續的揮舞速度都會變得更快，當達到第四次揮舞時將會給對手造成負面的影響。如果妳想要學習更多的組合技請提升自己的戰鬥技能。</string>
+        <string id="txt078"><span class="dark-green">格擋。</span>它會計算武器重量及對手攻擊方向。為了實現最有效的格擋，妳需要格擋時正面面對對手的<strong>武器</strong>。有效的格擋可以簡短的時間內錯開敵人的攻擊，從而讓妳執行特殊攻擊。</string>
+        <string id="txt079">用妳的盾牌<span class="dark-green">防禦</span>防禦是減輕傷害的更有效手段。妳能有效阻擋敵人射出的箭矢。但是要小心，妳的盾牌是可以被破壞的，尤其是當它面對斧型武器的攻擊時。</string>
+        <string id="txt080">對妳的敵人<span class="dark-green">突襲</span>用來反擊敵人的攻擊，甚至把他打倒！同時，突襲也是打斷敵人特殊攻擊的途徑。</string>
+        <string id="txt081">當妳需要時請隨時返回到本章教學查閱它，因為妳的生命和財物取決於妳對戰鬥的理解！</string>
+
+
+
+        <string id="txt082">領地人生的世界是一個危險的地方，任何人都可以傷害妳，妳也可以傷害任何人。請做好準備並且了解什麽樣的危險在等著妳。</string>
+        <string id="txt083">敵人的攻擊會對妳的身體造成損害，過深的傷口還會導致流血，甚至骨折。這會大大降低生存能力和戰鬥力。請立刻撤出戰鬥，尋找一名醫生，如果妳身受重傷，那麽一定要避免進一步損傷。</string>
+        <string id="txt084">說到傷害，它會降低妳的HP。有兩種類型的HP顯示在同一個血條上。</string>
+        <string id="txt085"><strong>氣血值</strong>代表妳的意識，當氣血值為 0 時會失去意識。但仍然活著。過一小段時間，或在妳朋友的幫助下，妳會逐漸恢復意識。</string>
+        <string id="txt086"><strong>生命力</strong>代表妳的健康程度，所以如果他們降到 0 以下時妳就死了......</string>
+        <string id="txt087">死亡...好吧，妳<b>需要的</b>就是盡可能的避免它。死亡時死神會帶走妳的一部分知識 —— 妳的技能點數。</string>
+        <string id="txt088"><strong>註：</strong>妳死後妳身上的物品可以被別人隨意的拿走。</string>
+        <string id="txt089">為了避免死亡以及寶貴的技能點損失，妳可以考慮以下兩種能力：</string>
+        <string id="txt090">— 接觸妳的所有武器（退回背包），以獲得暫時的<strong>速度提升</strong>，從而逃脫妳的敵人，並到達安全的地方。</string>
+        <string id="txt091">— 向妳的敵人臣服以請求憐憫。殺死已經<strong>屈服</strong>的人是無法饒恕的，他將會受到更多的善惡值懲罰。而妳只是會死亡和被洗劫而已，技能點不會受到損失。</string>
+
+
+
+        <string id="txt092">既然妳現在已經學會一大堆的戰鬥理論，那麽現在就是練習的時候啦。我們要開始打架啦...和稀薄的空氣！</string>
+        <string id="txt093">裝備上妳的原始斧。按下<span class="dark-green">[R]</span>（預設）進入戰鬥姿態/模式。然後使用快捷鍵拔出妳的武器。</string>
+        <string id="txt094"><strong>註：</strong>當妳進入戰鬥姿態後大部分和平動作都會不可用。</string>
+        <string id="txt095">單擊<span class="dark-green">滑鼠左鍵</span>的同時向一個方向移動滑鼠，角色將會朝著這一方向展開攻擊。多多練習一下所有四個方向的攻擊（從左往右、從右往左、劈以及刺)。</string>
+        <string id="txt096"><strong>註：</strong>妳可以在控制選單中反轉妳的滑鼠移動和攻擊方向。</string>
+        <string id="txt097">讓我們來追蹤一些動物來練習實戰。右鍵地面並選擇追蹤小型動物，來幫助自己找到第一隻獵物。</string>
+        <string id="txt098">請牢記當戰鬥對自己不利的時候一定要使用<strong>逃跑</strong>技能。</string>
+        <string id="txt099">祝即將到來的戰鬥好運！</string>
+        <string id="txt100"><strong>註：</strong>別忘了對被妳殺死的動物使用<strong>剝皮</strong>技能。</string>
+        <string id="txt101"><strong>重要通告！</strong>切勿隨意的攻擊其他玩家，除非他們先動的手或者妳的公會正處於戰爭！任何犯罪行為（入侵、攻擊、擊倒無辜者以及謀殺）都會降低妳的善惡值。當妳死亡的時候善惡值會直接影響妳的技能損失。所以越低的善惡值會損失更少的技能（甚至無損失）。一個非常邪惡的角色（善惡值 −500 甚至更少）死亡時會失去幾乎所有的技能！</string>
+        <string id="txt102">領地人生：YO 使用善惡系統來判斷妳與其他玩家的合作以及他們的個人財產。</string>
+
+
+
+        <string id="txt103">也許妳現在最想要建造的第一個對象便是一堆營火。它將在漆黑的夜晚為妳提供光源以及在加熱食物時提供熱源。</string>
+        <string id="txt104">首先選擇一塊地開始構建營火，然後右鍵單擊並選擇<strong>林業 -> 創建營地</strong>。妳將看到一個建築列表，然後選擇營火點擊建造妳會發現一個營火，這時妳可以通過左邊的操作按鈕來旋轉、移動他，當妳認為合適的時候便可以點擊建造來立起一塊標誌。</string>
+        <string id="txt105">這時一塊施工標誌會出現在妳所選擇的位置上。妳可以左鍵單擊（使用預設能力）它來打開建築材料表。它會告訴妳建造一堆營火所需要的材料。</string>
+        <string id="txt106">收集 5 根樹枝然後拖放到建設列表中按下“建造”。噗！一堆嶄新的營火！</string>
+        <string id="txt107">妳可以右鍵單擊打開營火放入一些燃料（樹枝、木塊、原木、木板或者木炭），然後點擊“點亮”按鈕。妳的營火便會燃燒起來並且可以用於烹飪！</string>
+
+
+
+        <string id="txt108">祝賀妳！妳已經完成了基礎教學。記住這些只是基礎的東西。領地人生是一個巨大的世界，妳可以在這裡幹很多事情。</string>
+        <string id="txt109">一個真正的沙盒有很多種與這個世界交互的方式。</string>
+        <string id="txt110">接下來做什麽？</string>
+        <string id="txt111">玩吧！</string>
+        <string id="txt112">下面是一些妳可以參與的冒險：</string>
+        <string id="txt113">找一些玩家來一起參與冒險。</string>
+        <string id="txt114">宣稱一些土地並在上面建一座房子</string>
+        <string id="txt115">開採一些礦石並建立一個小礦區</string>
+        <string id="txt116">探索最高的山脈，最大的沙漠以及最濃密的森林</string>
+        <string id="txt117">製造質量為 50 或更高的物品</string>
+        <string id="txt118">敲暈一些陌生人並洗劫他們</string>
+        <string id="txt119">幫助新手了解這個遊戲</string>
+        <string id="txt120">作為雇傭軍參與戰爭</string>
+        <string id="txt121">建造一個高大的金字塔並在裡面製造一個迷宮</string>
+        <string id="txt122">......在完全自由的時間裡玩得開心！</string>
+        <string id="txt123">記住，唯一的限制便是妳的想象力！</string>
+        <string id="txt124">如果妳需要找一些關於遊戲機制的幫助妳就要毫不猶豫的使用我們的維基百科或詢問其他玩家。</string>
+
+
+
+        <string id="txt125">正如妳所知道的，人類必須吃東西妳也不會例外。</string>
+        <string id="txt126"><strong>饑餓度</strong>是一種代表妳角色的飽食程度的值，它會影響的主要屬性恢復速度。<strong>饑餓度</strong>會在恢復<strong>疲勞</strong>時被消耗。當饑餓度為零使會開始消耗妳的<strong>氣血值</strong> 造成饑餓、暈厥甚至死亡。所以，首先我們必須找到食物。</string>
+        <string id="txt127">在這裡有多種獲取食物的方式。第一種最簡單的方式。請嘗試對著草地或在森林中使用<strong>自然學</strong> -> <strong>尋找殼食用物</strong>。</string>
+        <string id="txt128">妳可以試著尋找成熟的蘋果樹來收集一些蘋果，妳也可以試著在樹林中收集漿果和蘑菇、捕殺動物、學習捕魚或是弄一個自己的的小農場。在中世紀的世界中有多種獲取食物的方法來幫助妳活下去。</string>
+        <string id="txt129">妳應該知道領地人生中還有另一種食物系統。領地人生還設有<strong>食品質量倍數</strong>。妳吃的食物品質越好該倍數就會越高，而且它會直接的影響到妳的<strong>技能提升速度</strong>！煎魚是一種很好的營養來源，但是做一道漂亮的洋蔥豌豆燉魚將會大幅提高妳的技能點數！成為一名好廚師會帶來很大的優勢。</string>
+        <string id="txt130"><span class="dark-green">P.S.</span>妳的背包中應該有一些美味的餅乾讓妳愉快的度過領地人生中的第一天。</string>
+
+
+
+        <string id="txt131">現在有 2 種改變地形的方式。</string>
+        <string id="txt132"><strong>表面改造：</strong>降低或提高地形亦或是平整他們以用來建造。這就是<strong>本</strong>堂課的主題。</string>
+        <string id="txt133"><strong>隧道挖掘：</strong>為了在地下尋找礦石挖掘隧道、房間或大廳，亦或是為了好玩而生活在其中。這將是<strong>另一個</strong>堂課的主題。</string>
+        <string id="txt134">表面改造需要裝備鏟子。妳可以自己製作一把<strong>原始鏟子</strong>並裝備它。</string>
+        <string id="txt135">地形提高、降低以及平整可以被用在<strong>地面區塊</strong>上。<strong>地面區塊</strong>是一個 2m x 2m 的地面區域。只需選擇所需的區塊然後右鍵單擊它來選擇適當的動作並執行它。</string>
+        <string id="txt136"><strong>提示：</strong>妳可以按住滑鼠右鍵來更加精確的選擇。</string>
+        <string id="txt137">提高地形需要往地上傾倒一些泥土、石頭、黏土或任何妳在附近地塊上挖的什麽。妳只需要站在妳想要提高的地塊上並打開妳的背包<span class="dark-green">[I]</span>（預設），然後選擇妳想要倒在地上的物品在它的關聯選單中選擇<strong>傾倒</strong>。</string>
+        <string id="txt138"><strong>提示：</strong>如果妳持續往一個地塊中傾倒的話會造成地面滑坡。一座小山將會從四周的區塊慢慢的長起來。</string>
+        <string id="txt139"><strong>註：</strong>每次地面降低或提高都會改變區塊的高度。每次 10 厘米。</string>
+        <string id="txt140">在我們的世界中有些建築需要平坦的地面才可以放置。</string>
+        <string id="txt141">這是需要平整動作來發揮作用。平整動作可以平整目標區塊，試著將周圍的地塊平整到妳所站的地塊一樣的高度。</string>
+        <string id="txt142">妳需要站在某一地塊上然後選擇相鄰的地塊來使用平整動作。多次重複這些操作直到兩塊地面都在同一高度並且都很平坦。</string>
+        <string id="txt143">對於較大的建築物會需要很多平坦的區塊。採用下面的方法將幫助妳在今後能更好的建造。</string>
+        <string id="txt144"><strong>註：</strong>如果需要的話在平整區塊時會自動降低高度。但是妳必須手動提高高度。</string>
+        <string id="txt145"><strong>註：</strong>在某些情況下平整的斜坡是很有用的。比如妳準備建造一段傾斜的城墻。</string>
+        <string id="txt146">請自由的重複本堂課所講的動作。</string>
+        <string id="txt147"><strong>註：</strong>當區塊被樹木、建築、附近的隧道或是被其他玩家宣稱的情況下，區塊會被鎖定而無法使用底線改造動作。</string>
+
+
+
+        <string id="txt148">在領地人生中妳通過不同的方式來獲取自己的私人地盤。妳可以自己或是幫助的朋友一起建立一個公會。也可以隨時通過關聯選單，選單：通用動作 -> 設置為家 來綁定一所房子</string>
+        <string id="txt149">現在當妳死亡後或使用回程術時妳會出現在妳的房子中，這會幫助妳節省很多時間！</string>
+        <string id="txt150"><strong>P.S.</strong>我們建議妳製作一張床放到妳的房子裡來提供精確的重生位置。</string>
+
+
+
+        <string id="txt151">妳已經成功地完成搜尋草藥的動作。但這只是讓妳發現附近隱藏的草藥罷了。現在妳已經在我們的世界發現了它們，採集它們為了將來鍊金和調製藥劑！讓我們接著學習草藥：</string>
+
+
+
+        <string id="txt152">小遊戲只是一個只包含在領地人生：MMO中的特性，並不包還在在領地人生：YO中。現在讓我們來了解一下什麽是小遊戲。</string>
+        <string id="txt153">當嘗試製作動作時，妳可能會看到以下對話框。</string>
+        <string id="txt154"><strong class="number">1</strong>讓我們仔細的看一下這些選項。</string>
+        <string id="txt155"><strong class="number">2</strong><strong>“自動”</strong>是一個自動加工的選項。自動加工會一直重複該動作直到妳：</string>
+        <string id="txt156">材料不足或耐力不足</string>
+        <string id="txt157">妳被其他人打斷</string>
+        <string id="txt158">妳自己打斷了自己</string>
+        <string id="txt159">請牢記自動製作雖然可以節省時間和操作但是它卻是一個低效的製作方式。隨著事件的推移每次疊代都會讓它的效率相對於其他選項更底下。</string>
+        <string id="txt160"><strong class="number">3</strong>因此，讓我們來看一下第二個選項<strong>“小遊戲”</strong>。小遊戲會根據妳完成的速度和表現來給予一些特定的加成。</string>
+        <string id="txt161"><strong>註：</strong>使用小遊戲進行製作一般都比自動製作更快，不論妳玩的好還是差。</string>
+        <string id="txt162"><strong class="number">4</strong>妳也可以隨時隨地的到領地人生的官網玩小遊戲：朋友家、公司、公園等等，只要妳的設備支持Flash。</string>
+        <string id="txt163"><strong class="number">5</strong> 如果妳不喜歡玩小遊戲的話，妳可以在妳的帳號頁面上生成一個特殊鏈接。將鏈接分享給妳的朋友用妳的角色在玩這些遊戲。結果將會保存到妳的帳戶下。妳邀請的朋友不需要妳的帳號密碼便可以幫妳玩小遊戲。</string>
+        <string id="txt164"><strong class="number">6</strong>妳和妳朋友的分數都將儲存到妳角色的分數表中。妳可以在我們的網站上查看小遊戲以及該表的內容。妳可能會問“為什麽需要這些結果呢？”。</string>
+        <string id="txt165"><strong class="number">7</strong>這就是我們接下來要講的第三個製作選項。選擇該選項同樣只會出現一個進度條，但是它的速度很快。因為它會從妳的分數表中獲取數據。因此妳只要玩一次就可以享受結果所帶來的好處而不是一直玩。</string>
+        <string id="txt166">所以一切都取決於妳自己，妳是想要使用官方的自動製作？還是想要自己玩並沈浸於製作小遊戲的樂趣？亦或是妳想體驗妳或妳的朋友玩遊戲的最終得分？</string>
+        <string id="txt167">祝妳好運，然後記住，領地<strong>與</strong>人生。</string>
+        <string id="wiki">妳可以在我們的維基頁面上獲得更多的訊息：<br /><a href="http://lifeisfeudal.gamepedia.com/">Life is Feudal Wiki</a><br />或者進入中國區遊戲社群與中國玩家一起交流和享受本遊戲：<br /><a href="http://tieba.baidu.com/f?kw=%E9%A2%86%E5%9C%B0%E4%BA%BA%E7%94%9F&ie=utf-8">領地人生吧</a><a href="http://jq.qq.com/?_wv=1027&k=29CrFWR">領地人生交流群</a></string>
+    </strings>
+</root>

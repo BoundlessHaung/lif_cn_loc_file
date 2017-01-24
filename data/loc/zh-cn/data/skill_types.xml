@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated from Skills sheet -->
+<!-- origin: https://docs.google.com/spreadsheets/d/13tVTKKVvpz6pIqbCYSfVuqTiOXahxBlJNj_5O9QvKrc/edit -->
+<root>
+<lang_pack_version>1</lang_pack_version>
+<strings>
+<string id="1">工匠</string>
+<string id="2">开采</string>
+<string id="3">熔炼</string>
+<string id="4">锻造</string>
+<string id="5">制甲</string>
+<string id="6">林业</string>
+<string id="7">建筑维护</string>
+<string id="8">木匠</string>
+<string id="9">制弓</string>
+<string id="10">军事工程</string>
+<string id="11">自然学</string>
+<string id="12">本草学</string>
+<string id="13">酿造</string>
+<string id="14">医疗</string>
+<string id="15">炼金术</string>
+<string id="16">挖掘</string>
+<string id="17">建材制备</string>
+<string id="18">建造</string>
+<string id="19">砖石建筑</string>
+<string id="20">建筑学</string>
+<string id="21">农业</string>
+<string id="22">畜牧</string>
+<string id="23">屠宰</string>
+<string id="24">烹饪</string>
+<string id="25">缝纫</string>
+<string id="26">战马训练</string>
+<string id="27">锁甲专精</string>
+<string id="28">骑战专精</string>
+<string id="29">骑枪专精</string>
+<string id="30">重型战马专精</string>
+<string id="31">珍宝勘探</string>
+<string id="32">进阶农业</string>
+<string id="33">长矛专精</string>
+<string id="34">战士</string>
+<string id="35">长柄战斧专精</string>
+<string id="36">剑术专精</string>
+<string id="37">鳞甲专精</string>
+<string id="38">盾牌专精</string>
+<string id="39">骑士</string>
+<string id="40">穿刺武器专精</string>
+<string id="41">双手剑专精</string>
+<string id="42">板甲专精</string>
+<string id="43">双手斧专精</string>
+<string id="44">双手钝器专精</string>
+<string id="45">战吼</string>
+<string id="46">投掷武器专精</string>
+<string id="47">皮甲专精</string>
+<string id="48">弩专精</string>
+<string id="49">弓术专精</string>
+<string id="50">战前准备</string>
+<string id="51">狩猎</string>
+<string id="52">珠宝匠</string>
+<string id="53">艺术</string>
+<string id="54">信徒</string>
+<string id="55">导师</string>
+<string id="56">将军</string>
+<string id="57">装备保养</string>
+<string id="58">战场生存</string>
+<string id="59">爆破</string>
+<string id="60">战斗导师</string>
+<string id="61">动作</string>
+<string id="62">通用动作</string>
+<string id="63">骑术</string>
+<string id="64">游泳</string>
+<string id="65">权威</string>
+   </strings>
+</root>
+

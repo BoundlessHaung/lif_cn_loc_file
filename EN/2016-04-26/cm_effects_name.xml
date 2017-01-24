@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated from Messages sheet: https://docs.google.com/spreadsheets/d/13tVTKKVvpz6pIqbCYSfVuqTiOXahxBlJNj_5O9QvKrc/edit -->
+<root>
+<lang_pack_version>1</lang_pack_version>
+<strings>
+<string id="1">Root</string>
+<string id="2">Stun</string>
+<string id="3">Disabled</string>
+<string id="4">Limited Movement</string>
+<string id="5">Slowed</string>
+<string id="6">Accelerated</string>
+<string id="7">Clumsiness</string>
+<string id="8">Swiftness</string>
+<string id="9">Wounded</string>
+<string id="10">Bleeding</string>
+<string id="11">Crippled</string>
+<string id="12">Poisoned</string>
+<string id="13">Poisoned: Numb</string>
+<string id="14">Poisoned: Grave Weight</string>
+<string id="15">Poisoned: Lungs of Stone</string>
+<string id="16">Poisoned: Eternal Sleep</string>
+<string id="17">Poisoned: Breathtaker</string>
+<string id="18">Balanced Breath</string>
+<string id="19">Stronger</string>
+<string id="20">Faster</string>
+<string id="21">Harder</string>
+<string id="22">Clever</string>
+<string id="23">Tougher</string>
+<string id="24">Poison Resistance</string>
+<string id="25">Full</string>
+<string id="26">Skill Raised: Forging</string>
+<string id="27">Skill Raised: Armorsmithing</string>
+<string id="28">Skill Raised: Carpentry</string>
+<string id="29">Skill Raised: Bowcraft</string>
+<string id="30">Skill Raised: Warfare engineering</string>
+<string id="31">Skill Raised: Herbalism</string>
+<string id="32">Skill Raised: Healing</string>
+<string id="33">Skill Raised: Alchemy</string>
+<string id="34">Skill Raised: Architecture</string>
+<string id="35">Skill Raised: Procuration</string>
+<string id="36">Skill Raised: Cooking</string>
+<string id="37">Skill Raised: Piety</string>
+<string id="38">Fear</string>
+<string id="39">Power Strike!</string>
+<string id="40">Defence!</string>
+<string id="41">Resting</string>
+<string id="42">Bed Rest (Wounds)</string>
+<string id="43">Bed Rest (Fracture) </string>
+<string id="44">Bed Rest (Surgery)</string>
+<string id="45">Invulnerable</string>
+<string id="46">Criminal</string>
+<string id="47">Resurrected</string>
+<string id="48">Restore Hard Stamina</string>
+<string id="49">Raise Maximum Soft Stamina</string>
+<string id="50">Reviving</string>
+<string id="51">Bed Rest</string>
+<string id="52">Luck</string>
+<string id="53">Poison Duration</string>
+<string id="54">Stopping Power!</string>
+<string id="55">Piercing Bolt!</string>
+<string id="56">Arrow to the Knee!</string>
+<string id="57">Volley</string>
+<string id="58">Vulnerable</string>
+<string id="59">Unstoppable</string>
+<string id="60">God's Mercy</string>
+<string id="61">Iron Grip</string>
+<string id="62">Arrow Stand</string>
+<string id="63">Concentration</string>
+   </strings>
+</root>

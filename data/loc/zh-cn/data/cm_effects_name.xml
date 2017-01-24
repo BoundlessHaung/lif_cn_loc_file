@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated from Messages sheet: https://docs.google.com/spreadsheets/d/13tVTKKVvpz6pIqbCYSfVuqTiOXahxBlJNj_5O9QvKrc/edit -->
+<root>
+<lang_pack_version>1</lang_pack_version>
+<strings>
+<string id="1">禁锢</string>
+<string id="2">眩晕</string>
+<string id="3">沉默</string>
+<string id="4">动作受限</string>
+<string id="5">减速</string>
+<string id="6">加速</string>
+<string id="7">笨拙</string>
+<string id="8">敏捷</string>
+<string id="9">负伤</string>
+<string id="10">流血</string>
+<string id="11">残废</string>
+<string id="12">中毒</string>
+<string id="13">中毒：麻木</string>
+<string id="14">中毒：疲劳</string>
+<string id="15">中毒：窒息</string>
+<string id="16">中毒：沉睡</string>
+<string id="17">中毒：力竭</string>
+<string id="18">舒畅</string>
+<string id="19">强壮</string>
+<string id="20">快速</string>
+<string id="21">坚硬</string>
+<string id="22">聪慧</string>
+<string id="23">坚韧</string>
+<string id="24">毒抗</string>
+<string id="25">饱腹</string>
+<string id="26">技能提升：锻造</string>
+<string id="27">技能提升：制甲</string>
+<string id="28">技能提升：木匠</string>
+<string id="29">技能提升：制弓</string>
+<string id="30">技能提升：军事工程</string>
+<string id="31">技能提升：本草学</string>
+<string id="32">技能提升：医疗</string>
+<string id="33">技能提升：炼金术</string>
+<string id="34">技能提升：建筑学</string>
+<string id="35">技能提升：屠宰</string>
+<string id="36">技能提升：烹饪</string>
+<string id="37">技能提升：信徒</string>
+<string id="38">恐惧</string>
+<string id="39">暴击！</string>
+<string id="40">防御！</string>
+<string id="41">休息</string>
+<string id="42">休养期 (创伤)</string>
+<string id="43">休养期 (骨折) </string>
+<string id="44">休养期 (外伤)</string>
+<string id="45">刀枪不入</string>
+<string id="46">罪犯</string>
+<string id="47">复活</string>
+<string id="48">恢复疲劳</string>
+<string id="49">提高耐力上限</string>
+<string id="50">复苏</string>
+<string id="51">休养期</string>
+<string id="52">幸运</string>
+<string id="53">毒药持续时间</string>
+<string id="54">格挡！</string>
+<string id="55">破甲弩矢！</string>
+<string id="56">膝盖中箭！</string>
+<string id="57">齐射</string>
+<string id="58">脆弱</string>
+<string id="59">势不可挡</string>
+<string id="60">神的怜悯</string>
+<string id="61">铁腕</string>
+<string id="62">箭架</string>
+<string id="63">专注</string>
+<string id="64"></string>
+<string id="65">解毒</string>
+<string id="66">赤脚</string>
+   </strings>
+</root>

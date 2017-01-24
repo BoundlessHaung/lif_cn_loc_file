@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated from Skills sheet -->
+<!-- origin: https://docs.google.com/spreadsheets/d/13tVTKKVvpz6pIqbCYSfVuqTiOXahxBlJNj_5O9QvKrc/edit -->
+<root>
+<lang_pack_version>1</lang_pack_version>
+<strings>
+<string id="1">Prospecting</string>
+<string id="2">Mining</string>
+<string id="3">Smelting</string>
+<string id="4">Forging</string>
+<string id="5">Armorsmithing</string>
+<string id="6">Forestry</string>
+<string id="7">Logging</string>
+<string id="8">Carpentry</string>
+<string id="9">Bowcraft</string>
+<string id="10">Warfare engineering</string>
+<string id="11">Nature's lore</string>
+<string id="12">Gathering</string>
+<string id="13">Herbalism</string>
+<string id="14">Healing</string>
+<string id="15">Alchemy</string>
+<string id="16">Terraforming</string>
+<string id="17">Materials Preparation</string>
+<string id="18">Construction</string>
+<string id="19">Masonry</string>
+<string id="20">Architecture</string>
+<string id="21">Farming</string>
+<string id="22">Animal lore</string>
+<string id="23">Procuration</string>
+<string id="24">Cooking</string>
+<string id="25">Tailoring</string>
+<string id="26">War horse handling</string>
+<string id="27">Chainmail armors</string>
+<string id="28">Mounted fighting mastery</string>
+<string id="29">Lancing</string>
+<string id="30">Heavy horse handling</string>
+<string id="31">Militia service</string>
+<string id="32">Padded armors</string>
+<string id="33">Spear mastery</string>
+<string id="34">Unarmed combat</string>
+<string id="35">Poleaxes mastery</string>
+<string id="36">Blades mastery</string>
+<string id="37">Scale armors</string>
+<string id="38">Shield mastery</string>
+<string id="39">Axe and mace mastery</string>
+<string id="40">Piercing mastery</string>
+<string id="41">Two-handed Blades Mastery</string>
+<string id="42">Plate armors</string>
+<string id="43">Two-handed Axes Mastery</string>
+<string id="44">Two-handed Blunt Mastery</string>
+<string id="45">War cries</string>
+<string id="46">Throwing weaponry</string>
+<string id="47">Leather armors</string>
+<string id="48">Crossbows mastery</string>
+<string id="49">Bows mastery</string>
+<string id="50">Combat preparation</string>
+<string id="51">Fishing/hunting</string>
+<string id="52">Jewelry</string>
+<string id="53">Arts</string>
+<string id="54">Piety</string>
+<string id="55">Mentoring</string>
+<string id="56">Unit and formation</string>
+<string id="57">Equipment maintain</string>
+<string id="58">Battle Survival</string>
+<string id="59">Demolition</string>
+<string id="60">Drill</string>
+<string id="61">Movement</string>
+<string id="62">General actions</string>
+<string id="63">Horseback riding</string>
+<string id="64">Swimming</string>
+<string id="65">Authority</string>
+   </strings>
+</root>
+
