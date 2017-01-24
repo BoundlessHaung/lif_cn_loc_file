@@ -66,8 +66,8 @@
 <string id="63">使用烧窑</string>
 <string id="64">使用陶轮</string>
 <string id="65">铺路</string>
-<string id="66">维修</string>
-<string id="67">管理建筑工地</string>
+<string id="66"></string>
+<string id="67"></string>
 <string id="68">采集野生作物</string>
 <string id="69">犁地</string>
 <string id="70">提升地面高度</string>
@@ -107,14 +107,14 @@
 <string id="104">回收</string>
 <string id="105">锻造金属工具</string>
 <string id="106">锻造武器</string>
-<string id="107">锻造护甲</string>
+<string id="107">锻造护甲部件</string>
 <string id="108">打开</string>
 <string id="109">取水</string>
 <string id="110">丢弃</string>
 <string id="111">规划</string>
 <string id="112">添柴火</string>
 <string id="113">放点香料</string>
-<string id="114">合成</string>
+<string id="114">制作食物</string>
 <string id="115">取皮</string>
 <string id="116">拿取</string>
 <string id="117">剥茧抽丝</string>
@@ -178,7 +178,7 @@
 <string id="175">收起捕兽夹</string>
 <string id="176">屠戮！</string>
 <string id="177">宣告/放弃所有权</string>
-<string id="178">观察</string>
+<string id="178"></string>
 <string id="179">搜寻投石索弹药</string>
 <string id="180">查看...</string>
 <string id="181">拆除</string>
@@ -225,7 +225,7 @@
 <string id="222">离开马</string>
 <string id="223">隐藏</string>
 <string id="224">上马</string>
-<string id="225">上马</string>
+<string id="225"></string>
 <string id="226">下马</string>
 <string id="227">盔甲</string>
 <string id="228">粉碎</string>
@@ -255,9 +255,9 @@
 <string id="252">修理</string>
 <string id="253">设置</string>
 <string id="254">制作</string>
-<string id="255">激励</string>
+<string id="255"></string>
 <string id="256">成为这所学校的导师</string>
-<string id="257">成为这所学校的教官</string>
+<string id="257"></string>
 <string id="258">就读这所学校</string>
 <string id="259">点亮</string>
 <string id="260">熄灭</string>
@@ -281,8 +281,11 @@
 <string id="278">种植榛树</string>
 <string id="279">种植刺柏</string>
 <string id="280">采集坚果</string>
-<string id="281">制作一件盔甲</string>
+<string id="281">制作盔甲</string>
 <string id="282">皮革加工</string>
 <string id="283">学习</string>
+<string id="284">点亮</string>
+<string id="285">绘制蓝图</string>
+<string id="287">驱逐入侵者</string>
    </strings>
 </root>

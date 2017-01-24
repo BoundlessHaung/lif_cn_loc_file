@@ -1056,7 +1056,7 @@
 <string id="1129">廢墟</string>
 <string id="1130">小木板</string>
 <string id="1131">金屬部件</string>
-<string id="1132">修理包</string>
+<string id="1132">戰爭工具包</string>
 <string id="1133">小型戰爭工具包</string>
 <string id="1134">中型戰爭工具包</string>
 <string id="1135">大型戰爭工具包</string>
@@ -1133,7 +1133,7 @@
 <string id="1376">罩袍</string>
 <string id="1377">榛樹樹苗</string>
 <string id="1378">刺柏樹苗</string>
-<string id="1379">GM長袍</string>
+<string id="1379">信徒長袍</string>
 <string id="1380">木牆（斜）</string>
 <string id="1381">木牆工事</string>
 <string id="1382">木牆轉角</string>
@@ -1167,5 +1167,11 @@
 <string id="1410">燃燒的頭顱</string>
 <string id="1411">燃燒的頭顱</string>
 <string id="1412">燃燒的頭顱</string>
+<string id="1414">攻城火把</string>
+<string id="1415">傳令官帽子</string>
+<string id="1422">羊毛帽子</string>
+<string id="1423">草原帽子</string>
+<string id="1427">高筒靴</string>
+<string id="1434">露指手套</string>
    </strings>
 </root>
