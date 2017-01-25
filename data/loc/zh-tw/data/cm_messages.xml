@@ -1131,7 +1131,7 @@
 <string id="1126">（柴火的燃燒，熔煉等）（秒）</string>
 <string id="1127">動物繁殖/餵養周期：</string>
 <string id="1128">（分鐘）</string>
-<string id="1129">植物生長周期：</string>
+<string id="1129">一天的長度：</string>
 <string id="1130">（樹木和莊稼）（小時）</string>
 <string id="1131">野生動物數量：</string>
 <string id="1132">（警告！太多動物可能會導致伺服器卡頓！）</string>
@@ -2277,7 +2277,7 @@
 <string id="2271">製作周期（秒）：</string>
 <string id="2272">家畜的成長速度</string>
 <string id="2273">數值越大，速度越慢</string>
-<string id="2274">農作物的生長速度</string>
+<string id="2274">晝夜週期，以小時為單位（1 ~ 24）</string>
 <string id="2275">數值越大，周期越長</string>
 <string id="2276">世界中野生動物的數量</string>
 <string id="2277">物品腐爛速度</string>
@@ -2478,15 +2478,15 @@
 <string id="2472"></string>
 <string id="2473">捷克語 - český</string>
 <string id="2474">韓語 - 한국의</string>
-<string id="2475"></string>
-<string id="2476"></string>
-<string id="2477"></string>
-<string id="2478"></string>
-<string id="2479"></string>
-<string id="2480"></string>
-<string id="2481"></string>
-<string id="2482"></string>
-<string id="2483"></string>
+<string id="2475">%1</string>
+<string id="2476">%1</string>
+<string id="2477">%1</string>
+<string id="2478">%1</string>
+<string id="2479">%1</string>
+<string id="2480">%1</string>
+<string id="2481">%1</string>
+<string id="2482">%1</string>
+<string id="2483">%1</string>
 <string id="2484">沉睡者會將你帶到下一次醒來。</string>
 <string id="2485">进入请求被禁用。你可以在遊戲設置中啟用它</string>
 <string id="2486">這將導致你的公會人數低於 10。你的紀念碑及領地將被摧毀。是否繼續？</string>
@@ -2498,5 +2498,6 @@
 <string id="2492">收到組隊邀请</string>
 <string id="2493">收到交易邀请</string>
 <string id="2494">進去請求規則</string>
+<string id="2495">菜單</string>
 </strings>
 </root>
