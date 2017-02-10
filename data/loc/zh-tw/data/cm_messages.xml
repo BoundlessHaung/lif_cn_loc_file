@@ -1026,7 +1026,7 @@
 <string id="1021">角色創建數已達上限</string>
 <string id="1022">妳不能使用這個名字</string>
 <string id="1023">妳不能使用這個姓氏</string>
-<string id="1024">  </string>
+<string id="1024">無法創建角色</string>
 <string id="1025">未知錯誤（錯誤代碼：1025）</string>
 <string id="1026">妳無法從中釀造出有用的東西！</string>
 <string id="1027">妳無法在這所學校授課。這裡今天已經有老師授課了</string>
@@ -2458,8 +2458,8 @@
 <string id="2452">拔出</string>
 <string id="2453">妳需要至少 %1 熟練度的 "%(s2)" 技能才能學習這個藍圖。</string>
 <string id="2454">藍圖</string>
-<string id="2455"></string>
-<string id="2456"></string>
+<string id="2455">附屬國</string>
+<string id="2456">地形質量</string>
 <string id="2457"></string>
 <string id="2458"></string>
 <string id="2459"></string>
@@ -2478,19 +2478,19 @@
 <string id="2472"></string>
 <string id="2473">捷克語 - český</string>
 <string id="2474">韓語 - 한국의</string>
-<string id="2475">%1</string>
-<string id="2476">%1</string>
-<string id="2477">%1</string>
-<string id="2478">%1</string>
-<string id="2479">%1</string>
-<string id="2480">%1</string>
-<string id="2481">%1</string>
-<string id="2482">%1</string>
-<string id="2483">%1</string>
-<string id="2484">沉睡者會將你帶到下一次醒來。</string>
+<string id="2475"></string>
+<string id="2476"></string>
+<string id="2477"></string>
+<string id="2478"></string>
+<string id="2479"></string>
+<string id="2480"></string>
+<string id="2481"></string>
+<string id="2482"></string>
+<string id="2483"></string>
+<string id="2484">如果你關閉遊戲，&#xA;你的角色將離開世界&#xA;</string>
 <string id="2485">进入请求被禁用。你可以在遊戲設置中啟用它</string>
 <string id="2486">這將導致你的公會人數低於 10。你的紀念碑及領地將被摧毀。是否繼續？</string>
-<string id="2487">啟動時自動全屏遊戲窗口</string>
+<string id="2487">最大化窗口</string>
 <string id="2488">你已經成功的驅逐了擅自佔用的人： %1。</string>
 <string id="2489">你被驅逐出了被佔領的房屋。</string>
 <string id="2490">遊戲設置</string>
@@ -2499,5 +2499,11 @@
 <string id="2493">收到交易邀请</string>
 <string id="2494">進去請求規則</string>
 <string id="2495">菜單</string>
+<string id="2496">波濤洶湧</string>
+<string id="2497">在此服務器上沒有找到角色。</string>
+<string id="2498">這個世界禁止創建角色。</string>
+<string id="2499">在選定的顯示模式中不可用</string>
+<string id="2500">秒。</string>
+<string id="2501">任何動作都阻止你的角色離開世界。</string>
 </strings>
 </root>
