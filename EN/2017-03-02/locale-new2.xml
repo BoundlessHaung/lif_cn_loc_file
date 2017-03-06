@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <lang_pack_version>2</lang_pack_version>
+  <strings>
+
+    <string id="tab01">Controls</string>
+    <string id="tab02">Tutorials</string>
+
+
+    <string id="txt_or">or</string>
+    <string id="txt_hold">Hold</string>
+    <string id="txt_btn_tox">Table of Contents</string>
+    <string id="txt_btn_understood">Understood</string>
+    <string id="txt_btn_skip">Skip</string>
+    <string id="txt_btn_next">Next</string>
+    <string id="txt_btn_prev">Previous</string>
+
+
+
+    <string id="title001">Movement Controls</string>
+    <string id="txt001">Forward/Back/Left/Right</string>
+
+    <string id="txt002">Jump</string>
+    <string id="key_space">Space</string>
+
+    <string id="txt003">Sprint</string>
+    <string id="key_shift">Shift</string>
+
+
+    <string id="title002">Combat Mode</string>
+
+    <string id="txt004">War Stance/Peace Stance</string>
+    <string id="txt005">Switch between Combat Mode and Peaceful Mode.</string>
+
+    <string id="txt006">Hotbar Slots</string>
+    <string id="txt007">Draw a weapon from weapon slots.</string>
+
+    <string id="txt008">Attack</string>
+    <string id="key_mouselb">Mouse Left Button</string>
+    <string id="txt009">Shoot your ranged weapon or perform a directional weapon swing, direction of your mouse movement governs a direction of your swing.</string>
+
+    <string id="txt010">Block/Parry</string>
+    <string id="key_mouserb">Mouse Right Button</string>
+
+    <string id="txt011">Pounce</string>
+    <string id="key_mousemb">Mouse Middle Button</string>
+
+
+    <string id="title003">Peaceful Mode and Interaction</string>
+
+    <string id="txt012">Freelook Mode/Cursor Mode</string>
+    <string id="key_tab">Tab</string>    
+    <string id="txt013">Cycle between Freelook Mode (to run around) and Cursor Mode (to move windows, items and such).</string>
+
+    <string id="txt014">Toggle Interface Edit Mode</string>
+
+    <string id="txt015">Context menu</string>
+    <string id="txt016">Context menu of a targeted object/tile/tunnel/player.</string>
+
+    <string id="txt017">Perform Default ability</string>
+    <string id="txt018">Perform Default ability on targeted object/tile/tunnel/player. you can set default ability while checking Right Mouse Button on a selected ability in a context menu.</string>
+
+    <string id="txt019">Character Inventory</string>
+    <string id="txt020">Character Equipment paperdoll</string>
+    <string id="txt021">Character Skills</string>
+    <string id="txt022">Character Stats and wounds </string>
+
+
+    <string id="title004">View Controls</string>
+
+    <string id="txt023">Change Camera</string>
+    <string id="txt024">Switch between 1st/3rd Person View</string>
+
+    <string id="txt025">Rotate Camera</string>
+
+
+    <string id="title005">Miscellaneous</string>
+    <string id="txt026">Toggle Hide HUDs</string>
+
+
+
+
+
+    <string id="title006">Basic</string>
+    <string id="chap01">Interface and Movement</string>
+    <string id="chap02">Inventory and Equipment Management</string>
+    <string id="chap03">Interface and context menu</string>
+    <string id="chap04">Simple crafting</string>
+    <string id="chap05">Actions with tools (Logging)</string>
+    <string id="chap06">Skill cap, Stat cap, locks</string>
+    <string id="chap07">Combat theory</string>
+    <string id="chap08">Double bars, wounds, death and skills loss</string>
+    <string id="chap09">Combat practice</string>
+    <string id="chap10">Simple construction</string>
+    <string id="chap11">What am I to do now???</string>
+
+
+    <string id="title007">Advanced Features</string>
+    <string id="chap12">Food and hunger</string>
+    <string id="chap13">Basic Terraforming</string>
+    <string id="chap14">Bind to your house</string>
+    <string id="chap15">Search for Herbs</string>  
+
+
+    <string id="title008">MMORPG only</string>
+    <string id="chap16">Minigames</string>
+
+
+
+    <string id="txt027">Welcome to Life is Feudal!</string>
+    <string id="txt028">This guide will help you get started in the game.</string>
+    <string id="txt029">You awaken and see the sand of an island beach. It looks as if your ship has wrecked on the rocks that dot the local coastal waters. Apparently, you have laid here for a while. First, let`s take a look around.</string>
+    <string id="txt030">You can read the tutorial in any order and return to it at will.<br />If you close this window, you can open it again by pressing <span class="dark-green">F1</span>.</string>
+
+
+
+    <string id="txt031">In Life is Feudal, there are two interface modes that can be switched via the <span class="dark-green">Tab</span> (default) button.</string>
+    <string id="txt032">Cursor mode. You can manage your inventory, craft, manage buildings and interact with all game windows in this mode.</string>
+    <string id="txt033">Freelook mode. Your mouse movements will rotate your character so you can look around and aim with your mouse.</string>
+    <string id="txt034">Movement of your character is realized via the keyboard and mouse, where the mouse controls the direction of movement and the keys <span class="dark-green">W</span> (forward), <span class="dark-green">A</span> (strafe left), <span class="dark-green">S</span> (back), <span class="dark-green">D</span> (strafe right). To jump, press <span class="dark-green">Space</span>. You can also run by holding down <span class="dark-green">Shift</span> while moving. Press <span class="dark-green">C</span> to switch between 1st and 3rd Person Views.</string>
+    <string id="txt035">Press <span class="dark-green">Tab</span> and try to look, and walk around. When you are ready to continue, press <span class="dark-green">Tab</span> once more and follow to the next tutorial chapter. If you have disabled the tutorial menu, you can always open it on a certain chapter via <span class="dark-green">F1</span> or <span class="dark-green">Esc -> Help menu</span>.</string>
+
+
+
+    <string id="txt036">Since you can walk around effectively now let’s put something on to cover your nakedness. Open your inventory (<span class="dark-green">I</span>) and Equipment Paperdoll (<span class="dark-green">T</span>) and drag the Rags from your backpack onto the chest slot.</string>
+    <string id="txt037">You can equip your tools and weapons in a similar manner, but we will come back to that topic later.</string>
+
+
+
+    <string id="txt038">The first and easiest way of interaction is the context menu. You can approach a desired object or player and press the right mouse button and you will see a list of actions you can do with that object. These abilities are grouped by a governing skill. Only the abilities you currently know will be possible to use to interact with that object. If you are unsure what object you are targeting you can <span class="dark-green">hold down</span> the left or right mouse button and see which object is highlighted.</string>
+    <string id="txt039">When you are observing a context menu you can left click on one of the abilities to perform it, or you can right click it and make that ability the default ability. Marking an ability the default will allow you to left click on the desired object and perform that ability without calling up the context menu. <strong>Always remember that feature</strong> — it can save you a lot of time! Oh and by the way, the context menu works fine in your inventory too.</string>
+    <string id="txt040">Whenever you need to perform an ability that has no target or you want to quickly use an inventory item the hotbar is your solution. Drag and drop an ability from your skill book or an item from your backpack onto a hotbar slot. The next time you press that hotkey slot the ability or item will be used. Take some time to look into hotbar options so you can customize them the best way to fit your playstyle.</string>
+    <string id="txt041">Now let`s approach a tree and see what we can do there.</string>
+
+
+
+    <string id="txt042">You can try to chop down that tree, but it will not work without at least a primitive axe. So let’s craft it!</string>
+    <string id="txt043">Find some <strong>Flint stones</strong> by right clicking on rocky terrain.</string>
+    <string id="txt044">Snap <strong>Branches</strong> by right clicking on any tree.</string>
+    <string id="txt045">Gather some <strong>Wild plant fibers</strong> by right clicking on grassy terrain.</string>
+    <string id="txt046">Once you have collected enough of those items, open your inventory and right click on a branch and start the <strong>“Create a primitive tool”</strong> ability to craft yourself a <strong>Primitive Axe</strong>.</string>
+    <string id="txt047"><strong>Note:</strong> You do not need to manually drag ingredients into crafting slots. Ingredients will be depleted automatically. However, you will need those slots if you want to choose exactly which stack of ingredients you want to use.</string>
+    <string id="txt048">Most of your crafting actions will be performed in the same way.</string>
+    <string id="txt049">Find a tool or crafting station</string>
+    <string id="txt050">Right Click it and select an appropriate crafting ability</string>
+    <string id="txt051">Select your desired item and…</string>
+    <string id="txt052">Craft!</string>
+    <string id="txt053">Now let`s equip that Primitive Axe</string>
+
+
+
+    <string id="txt054">One of the most important construction resources in our world is wood. Let`s go and chop some trees!</string>
+    <string id="txt055">LIF is a medieval world, which is full of trees, so finding a suitable tree should not take you much time. When you have found a suitable tree, equip an axe in any of your equipment slots.</string>
+    <string id="txt056">Then select <strong>Logging — Cut down</strong>. After few iterations of tree chopping. you should see the tree falling and then a log will appear. You can carry it to your base location (<span class="dark-green">General actions -> Lift</span>) or simply leave it there until a better time when you have learned a <strong>Carpentry</strong> skill.</string>
+    <string id="txt057">Our next lesson is about skills and learning.</string>
+
+
+    
+    <string id="txt058">You might have noticed message boxes showing you that your skills have increased. Now it is time to look further into Life is Feudal skills system.</string>
+    <string id="txt059">The skill system in Life is Feudal is different from most MMO games you may have experienced. There are no character levels, professions or experience. Only your character’s skills and attributes matter.</string>
+    <string id="txt060">While performing any action in the world, no matter if that is: potion creation, building construction, digging tunnels or sword swinging, certain skills raise the attribute that skill governs.</string>
+    <string id="txt061">So, if you want to be a good builder — build things.</string>
+    <string id="txt062">If you want to be a good swordsman — swing your sword at enemies as much as possible.</string>
+    <string id="txt063">Each skill has its nominal (basic) value and its real value. Real value is computed after taking governing attributes and effects into consideration. None of the skill values can rise higher than 100 points and can not drop below 0.</string>
+    <string id="txt064">Most skills are arranged into skill chains, thus creating a sequence in which those skills will be increased. You have to increase the first skill in a chain to 60 before you are able to increase the next skill in that chain and so on.</string>
+    <string id="txt065">There is another limitation on your skill progression: <strong>Skillcap</strong>. The sum of your skills’ nominal values can not raise higher than the skillcap value for that group of skills. If your sum has achieved the skillcap — no further skill progression is possible. You can always decide which skills you are willing to sacrifice in favor of others.</string>
+    <string id="txt066">Open your skill book and change the arrow state for each skill, either you want that skill to be increased, decreased or not changed at all.</string>
+    <string id="txt067">Oh, by the way, there is a similar system of arrows, locks and caps work for your attributes as well. It It is called <strong>Statcap</strong>, and you manage it in your character window.</string>
+    <string id="txt068">With this knowledge and tools you can make your own unique class that utilizes only your preferred skills and abilities with your own strengths.</string>
+    <string id="txt069"><strong>Note:</strong> Default key to open a skill book is <span class="dark-green">L</span>.</string>
+    <string id="txt070"><span class="dark-green"><strong>Now, since you are familiar with the skill system, it is time to learn a bit about combat in Life is Feudal. Press R to enter a combat stance and wield an axe in accordance tothe short video:</strong></span></string>
+
+
+    
+    <string id="txt071">Survival in feudal times is not only about the acquisition of food and resources. It is also a struggle to survive attacks from different predators - whether they walk on four legs, or two. Before you experience battle, let us guide you through a few basics of combat.</string>
+    <string id="txt072">Combat in Life is Feudal is designed to be realistic and immersive, provoking deep, tactical thinking behind your actions, as opposed to mindless button mashing. In order to be successful, you need to learn, and understand, some key aspects.</string>
+    <string id="txt073"><span class="dark-green">Physics based combat.</span> Our combat uses physics calculations to determine inflicted damage. Each weapon contains a set of damaging nodes, which travels in space, following your weapon, with a certain speed, while you make your swings. Each node deals different amounts, and types, of damage (slashing, piercing, blunt and siege). Hitting someone with an axe blade will be more painful, than with an axe shaft. Hitting someone who has a high velocity towards you will be even more painful.</string>
+    <string id="txt074"><span class="dark-green">Physics-inspired body control.</span> The total weight of your armor and equipped weapons is compared to your character attributes. The result of this comparison affects movement and turning speed of your character. Most of the combat actions you perform will be <strong>more effective</strong> if you perform them while standing on both legs, rather than moving in a particular direction. You must monitor your soft stamina rates, because uncontrolled sprinting and weapon swinging will make you lose your breath and you will not be able to act for a short period of time.</string>
+    <string id="txt075"><span class="dark-green">Directional attacks.</span> Is the way to choose a proper attack depending of your surroundings, nearby friendlies and direction of enemies movement. But directional attacks also trigger more advanced ways of dealing damage: special attacks and combo attacks.</string>
+    <string id="txt076"><span class="dark-green">Special attacks</span> can deal some large amounts of damage. In order to perform a special attack a certain combat event must occur, like your successful parry, knockdown of an opponent or your successful block. Immediately after that event you must perform an attack from the correct direction, and that attack will be special with alternate animation and increased damage. But be careful, special attacks can be interrupted by a successful pounce.</string>
+    <string id="txt077"><span class="dark-green">Combo attacks</span> are the way to deal more damage along with some special effect of your final blow in a combo chain. If you perform a certain sequence of differently directed attacks, each consecutive swing will be faster and the 4th swing might inflict a harmful effect on your opponent if you manage to land that blow. Make sure to study new combos and special attack directions while leveling up your combat skills.</string>
+    <string id="txt078"><span class="dark-green">Parrying.</span> It takes weapon weights into account and the direction that you face while parrying opponent’s strikes. In order to achieve the most effective parry, you need to face your opponent’s <strong>weapon</strong> while parrying. Effective parry can stagger your opponent for a brief duration and might allow you to perform a special attack.</string>
+    <string id="txt079"><span class="dark-green">Blocking</span> attacks with your shield is rather more effective means of mitigating the damage. You can effectively block projectiles flying towards you along with enemy swings. But be careful, your shield can be broken after an excessive beating, especially if it is performed with axe-type weapons</string>
+    <string id="txt080"><span class="dark-green">Pounce</span> on your enemy - is the way to counter an enemy opponent’s active block and even knock him down! Pounce is also a way to interrupt enemy special attacks.</string>
+    <string id="txt081">Feel free to return to this Tutorial chapter and review it when needed, because your life and your belongings could depend on your understanding of all combat aspects!</string>
+
+
+    
+    <string id="txt082">The world of Life is Feudal can be a dangerous place, where anyone can harm you and you can harm anyone. Be prepared and know what types of danger are waiting for you.</string>
+    <string id="txt083">Enemy attacks can harm your body parts, resulting in deep wounds, bleeding and even fractures. These reduce your combat effectiveness and survivability. Withdraw from combat and look for a healer if you are badly wounded. Try to avoid further damage as best you can manage.</string>
+    <string id="txt084">Speaking of damage, it reduces your hitpoints. There are two types of hitpoints that are displayed on one bar.</string>
+    <string id="txt085"><strong>Soft hitpoints</strong> represent how conscious you are, so if your soft hitpoints deplete to zero, you lose consciousness. You will be lying helpless, but still alive. After a short amount of time, or with the help of your friends, you will recover and be back on your feet.</string>
+    <string id="txt086"><strong>Hard hitpoints</strong> represent how healthy you are, so if they drop below zero, you die…</string>
+    <string id="txt087">Death… well, you <b>want and have to</b> avoid it if at all possible. Death takes its toll by chipping off a piece of your knowledge — your skill points.</string>
+    <string id="txt088"><strong>Note:</strong> This does not refer to the items left on your corpse which can be looted by anyone.</string>
+    <string id="txt089">To avoid death, and the loss of your precious skill points, you can consider two abilities:</string>
+    <string id="txt090">— Drop all your weapons (in your inventory) and receive a temporary <strong>speed boost</strong>, which might allow you to outrun your enemy and reach safety.</string>
+    <string id="txt091">— Surrender yourself to the mercy of your enemy. Killing someone who is <strong>yielding</strong> is a mortal sin and will be punished by increased alignment loss. There’s a good chance that you will just be knocked out and looted. That will leave your skill points intact.</string>
+
+
+    
+    <string id="txt092">Now, since you have learned a bit of combat theory, it is time for some practice. We are going to start fighting with… thin air!</string>
+    <string id="txt093">Equip your primitive axe. Press <span class="dark-green">R</span> (default) to enter combat stance/mode. Draw your weapon using the draw ability on your hotbar.</string>
+    <string id="txt094"><strong>Note:</strong> Many peaceful abilities are unavailable while you are in a combat stance/mode.</string>
+    <string id="txt095">The direction of your mouse movement, while clicking the <span class="dark-green">Left Mouse Button</span>, will start an attack in that direction. Practice a few swings in all four directions (left to right, right to left, overhead and thrust attacks).</string>
+    <string id="txt096"><strong>Note:</strong> You can invert the controls of your mouse movement and attack direction in the Controls menu.</string>
+    <string id="txt097">Let’s track some animals for some live weapon practice of your combat skills. Target a tile and look for some small tracks. That should lead you to your first prey.</string>
+    <string id="txt098">Remember to use the <strong>Flee</strong> ability if the fight is not going in your favor.</string>
+    <string id="txt099">Good luck in your upcoming battle!</string>
+    <string id="txt100"><strong>Note:</strong> Do not forget to <strong>Skin</strong> an animal that you kill.</string>
+    <string id="txt101"><strong>Important notice!</strong> Do not attack other players, unless they attacked you first or your guilds are in an official state of war! Any criminal actions (trespassing, assault, knockdown of innocents and murder) will lower your alignment. Your amount of alignment affects your skill loss if you die. So the lower your alignment the harder skill loss hit will be. VERY evil characters (alignment −500 and less) can lose almost all of their skill points after death!</string>
+    <string id="txt102">Life is Feudal:Your Own use the alignment system to judge your interactions with other players and their personal property.</string>
+
+
+    
+    <string id="txt103">The first object you might want to actually construct is a campfire. It will provide you with a source of light during the darkness of night and a source of heat to cook whatever you have managed to catch, kill, forage or harvest during your day.</string>
+    <string id="txt104">To start the construction of a campfire select a terrain tile. Right click and select <strong>Forestry — Create a camp — Create a campfire</strong>. You will see a construction symbol that will allow you to select placement for a campfire and also will allow you to rotate it.</string>
+    <string id="txt105">A construction sign should appear representing that you are constructing something in that area. You can Left click (use default ability) on it to open the construction site. There you will see a list of construction materials that are needed for a campfire.</string>
+    <string id="txt106">Gather five branches and drag and drop them into the building container and press “Build”. Poof! There is your new campfire!</string>
+    <string id="txt107">You can right click to open the campfire to add some fuel (branches, billets, logs, boards or even charcoal) into it and press the “light on” button. Your campfire is now burning and can be used for cooking!</string>
+
+
+    
+    <string id="txt108">Congratulations! You have finished the basic tutorial. These are only some basics. Life is Feudal is a huge world with a lot of things you can do.</string>
+    <string id="txt109">A true sandbox with numerous ways how you can interact with this world.</string>
+    <string id="txt110">What to do next?</string>
+    <string id="txt111">Play!</string>
+    <string id="txt112">These are just some of the activities that you can get involved with:</string>
+    <string id="txt113">Find players to join to share adventures with.</string>
+    <string id="txt114">Claim some land and build a house on it</string>
+    <string id="txt115">Prospect for some ore and start a small mining village</string>
+    <string id="txt116">Explore the highest mountains, biggest deserts and thickest forests</string>
+    <string id="txt117">Craft an item with quality 50 or higher</string>
+    <string id="txt118">Knock out some stranger and rob him of his belongings</string>
+    <string id="txt119">Help another newbie understand the game</string>
+    <string id="txt120">Participate in a battle as a mercenary</string>
+    <string id="txt121">Build a tall pyramid and build a maze inside it</string>
+    <string id="txt122">… have fun in complete freedom!</string>
+    <string id="txt123">Remember, the only limitation is your imagination!</string>
+    <string id="txt124">Do not hesitate to use our wikipedia or ask other players if you need help with some game mechanics.</string>
+
+
+    
+    <string id="txt125">As you know, humans must eat and you are not an exception.</string>
+    <string id="txt126"><strong>Hunger</strong> is the value representing how well fed your character is and it affects the speed of regeneration of major attributes. <strong>Hunger</strong> is depleted by <strong>Hard Stamina</strong> regeneration. If hunger reaches zero it will start to deplete your <strong>Soft Hitpoints</strong> resulting in hunger, fainting and death. First of all you must find food.</string>
+    <string id="txt127">There are multiple ways to get food. The first one is simple foraging. Try using <strong>Nature’s Lore</strong> → <strong>Search for something edible</strong> on grassy terrain or in a forest.</string>
+    <string id="txt128">You can try to locate mature apple trees to gather apples from, you may try to gather berries and mushrooms in forests, hunt prey for food, learn fishing or even start your own small farm. There are multiple ways of how to acquire food in a medieval world and these actions will allow you to stay alive.</string>
+    <string id="txt129">There is another aspect of the food system that you should be aware of. Life is Feudal also features a <strong>Food Quality Multiplier</strong>. The greater the quality of a food you have eaten the higher that multiplier will be and it directly <strong>affects the speed of your skill progression</strong>! Fried Fish is a good source of nutrition, but a nicely cooked Fish Stew with onions and peas will boost your skill gains drastically! Being a good cook or having one nearby is a great advantage.</string>
+    <string id="txt130"><span class="dark-green">P.S.</span> You should have some cookies in your inventory to sweeten your first days in Life is Feudal.</string>
+
+
+    
+    <string id="txt131">There are 2 major types of terraforming activities that are possible.</string>
+    <string id="txt132"><strong>Surface terraforming:</strong> Lowering or raising terrain tiles or flattening them for future construction. That is the topic of the <strong>current</strong> tutorial.</string>
+    <string id="txt133"><strong>Tunnel building:</strong> Actual construction of underground tunnels, rooms or halls for the purpose of finding ore, living in or simply for fun. That will be the topic of <strong>another</strong> tutorial lesson.</string>
+    <string id="txt134">For surface terraforming you will need to have a shovel equipped. Feel free to craft yourself a <strong>Primitive shovel</strong> and equip it.</string>
+    <string id="txt135">Terrain raising, lowering and flattening abilities are performed on terrain <strong>tiles</strong>. <strong>Tiles</strong> are areas of land that are 2x2 meters wide. Simply select a desired tile then right click to select a suitable ability and perform it.</string>
+    <string id="txt136"><strong>Hint:</strong> You can hold the Right mouse button to keep the selection of objects and tiles for more precise selection.</string>
+    <string id="txt137">To raise the terrain you actually have to pour some dirt, rocks, clay or whatever you have recently dug up on the tile you are standing on. Simply step on a tile that you want to raise and open your inventory (“<span class="dark-green">I</span>” by default). Select a stack of items you want to pour down and select the <strong>Pour on the Ground ability</strong> in a context menu.</string>
+    <string id="txt138"><strong>Hint:</strong> Do not forget about landfall effect if you keep pouring material in one tile. A hill will be created and will start growing on all sides of that tile.</string>
+    <string id="txt139"><strong>Note:</strong> Each ground lowering/raising iteration will change tile altitude aprox. by 10 centimeters.</string>
+    <string id="txt140">Some objects that can be constructed in our world demand a flat surface in order to be placed.</string>
+    <string id="txt141">This is where flattening ability will play its role. Flattening will flatten the targeted tile, trying to equal its altitude to the altitude of one you are standing on.</string>
+    <string id="txt142">Position yourself on one tile, target an adjacent tile and then initiate the flattening ability. Repeat these actions multiple times if needed unless you see that both tiles are perfectly flat and at the same altitude.</string>
+    <string id="txt143">For larger construction sites you will need to have many more flattened tiles. Adopting the following method will help you in future construction projects.</string>
+    <string id="txt144"><strong>Note:</strong> Flattening an adjacent tile will automatically lower its altitude if it is needed, but you can not automatically raise an adjacent tile’s altitude. You will have to raise a tile's altitude manually.</string>
+    <string id="txt145"><strong>Note:</strong> Flattening with a slope is useful in some cases. For example when you prepare terrain for construction for a sloped wall section in some advanced fortification construction.</string>
+    <string id="txt146">Feel free to repeat all actions described in this lesson as needed to become comfortable with the process.</string>
+    <string id="txt147"><strong>Note:</strong> All terraforming abilities will fail if they affect blocked tiles. Tiles can be blocked by trees, buildings, nearby tunnels, other players claims etc.</string>
+
+
+    
+    <string id="txt148">Through different means you can achieve your personal living space in the world of Life is Feudal. You can either build it on your own, or with a help of your friends or you can simply be provided with it by your guild leader. In any case, you should bind to that place via Context Menu: General Actions->Set as Your Home</string>
+    <string id="txt149">Now when you die or use Prayer for Homecoming ability you will appear in your house - that can save you a lot of time in some situations!</string>
+    <string id="txt150"><strong>P.S.</strong>We recommend you to craft and place a bed in your house to mark exact place of respawn inside it.</string>
+
+
+    
+    <string id="txt151">You had successfully performed your Search for Herbs ability. But that only allowed you to reveal hidden herbs around you in a certain radius. Now you have to spot them in our world to gather for your future preparations and alchemical cocktails! Look out for herbs that look the following way:</string>
+
+
+    
+    <string id="txt152">The minigames are a feature that is only enabled in the Life is Feudal MMO and not available in Life is Feudal:Your Own. Now on to the information regarding the minigames.</string>
+    <string id="txt153">While trying to perform crafting actions you might see the following dialogue.</string>
+    <string id="txt154"><strong class="number">1</strong> Let’s take a closer look at these options.</string>
+    <string id="txt155"><strong class="number">2</strong> <strong>“Auto”</strong> means an autocraft option. Auto crafting actions repeat infinitely until you:</string>
+    <string id="txt156">Run out of needed resources or stamina</string>
+    <string id="txt157">You are interrupted by someone</string>
+    <string id="txt158">You interrupt the cycle yourself</string>
+    <string id="txt159">Keep in mind although autocraft saves you some clicks, it is an inefficient type of crafting. Crafting time increases with each iteration making it inefficient compared to other options.</string>
+    <string id="txt160"><strong class="number">3</strong> So let us take a look at the second option named <strong>“Minigame”</strong>. Depending on your performance and the Minigame type you will either perform your action faster or receive a slight quality bonus to the crafted item.</string>
+    <string id="txt161"><strong>Note:</strong> Using the Minigame option you will always perform your crafting actions FASTER than autocrafting, no matter how good or bad your Minigame results are.</string>
+    <string id="txt162"><strong class="number">4</strong> You can also play the Minigames on the Life is Feudal website from anywhere: a friend’s home, at work, a park, etc. as long as your mobile device supports Flash content.</string>
+    <string id="txt163"><strong class="number">5</strong> If you are not a fan of the Minigames you can generate a special guest link on your account page. Sharing that link with your friends allows them to play those Minigames on your character’s behalf. The results are saved to your account credentials. Your guests will never need to know your password or account information to allow access to the Minigames.</string>
+    <string id="txt164"><strong class="number">6</strong> Results that you and your friends achieve are stored in your character’s results pool. You can review minigame results and that pool’s content on our site as well. “Why do I need all those results?” you may ask.</string>
+    <string id="txt165"><strong class="number">7</strong> This is when option three of our crafting dialogue menu comes into play. Choosing this option brings you to the same dull progress bar, BUT its duration is far shorter. It uses one of the results from the pool as if you had just achieved that result playing a minigame. You receive all benefits from playing a minigame, without having to play that minigame continuously.</string>
+    <string id="txt166">So it’s up to you, do you want an official autorepeat of your ability that isn’t considered macro abusing? Do you want to play that minigame for greater immersion into crafting gameplay, or do you want to use results achieved earlier by you or a friend?</string>
+    <string id="txt167">Good luck and remember, Life <strong>IS</strong> feudal.</string>
+    <string id="wiki">You can read more on our Wiki page:<br /><a href="http://lifeisfeudal.gamepedia.com/">Life is Feudal Wiki</a></string>
+  </strings>
+</root>
